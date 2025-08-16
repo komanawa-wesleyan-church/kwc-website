@@ -95,6 +95,10 @@ main {
                 content: '—';
                 margin-right: 7px;
             }
+
+            @media (max-width: 600px) {
+                font-size: 16px;
+            }
         }
     }
 }
